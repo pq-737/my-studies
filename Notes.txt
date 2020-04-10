@@ -1,0 +1,20 @@
+{
+ "segmenfation":
+		[[]],
+# 此陣列標註了圖像中辨識物件的多邊形外圍，如img.jpg的紅點
+ "num_keypoint":10,
+# 代表了此圖像中含有的keypoint數量
+ "area":47803.27955,
+# 代表了segmenfation圍成之多邊形面積
+ "iscrowd":0,
+#
+ "keypoint":[],
+#
+ "image_id":425226,
+#
+ "bbox":[73.35,206.02,300.58,372.5],
+#
+ "catgory_id":1,
+#
+ "id":183126
+}
