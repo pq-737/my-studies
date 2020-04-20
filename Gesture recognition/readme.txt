@@ -1,6 +1,9 @@
 (可略過)
-先使用make_data.py進行訓練/測試樣本錄製
+先使用make_data.py進行訓練樣本錄製
 再使用data_cut.py對樣本進行分割
+將分割好的訓練樣本依照分類丟入train-data中的子資料夾
+(可新增或刪除類別)
+
 
 python train.py -d train-data -n (model_name)
 //使用train-data資料夾中的樣本進行訓練
