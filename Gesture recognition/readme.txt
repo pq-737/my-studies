@@ -10,7 +10,7 @@
 //輸出模型命名為"model_name"
 
 
-執行 python demo.py -n (你的模型名稱)
+執行 python demo.py -n (model_name)
 
 
 
